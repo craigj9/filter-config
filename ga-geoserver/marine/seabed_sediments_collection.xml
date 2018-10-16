@@ -7,6 +7,7 @@
     <visualised>true</visualised>
     <excludedFromDownload>false</excludedFromDownload>
   </filter>
+  <!--
   <filter>
     <name>survey_name</name>
     <type>string</type>
@@ -14,6 +15,7 @@
     <visualised>true</visualised>
     <excludedFromDownload>false</excludedFromDownload>
   </filter>
+-->
   <filter>
     <name>sample_type</name>
     <type>string</type>
