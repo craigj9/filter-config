@@ -10,7 +10,7 @@
     <filter>
     <name>TIME</name>
     <type>datetime</type>
-    <label>Time</label>
+    <label>Time (test)</label>
     <visualised>true</visualised>
     <excludedFromDownload>false</excludedFromDownload>
     <wmsStartDateName>time_coverage_start</wmsStartDateName>
